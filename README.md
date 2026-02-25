@@ -1,4 +1,5 @@
 # backend-team-example
 
-Catherine Zefanya Lorens Lukyto - 535250024
-535250002 Vaibhav
+535250007 Nickson Kiyoshi\n
+Catherine Zefanya Lorens Lukyto - 535250024\n
+535250002 Vaibhav\n
