@@ -1,4 +1,9 @@
-const { square, divide } = require('./utils');
+const http = require('http');
+const router = require('./router');
 
-console.log(square(2));
-console.log(divide(4, 2));
+const port = 1000;
+const app = http.createServer(router);
+
+app.listen(port);
+console.log(`Server running on port number: ${port}`);
+
